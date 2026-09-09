@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">BhuRaksha landslide safety</title>
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#287456"/>
+      <stop offset="1" stop-color="#103F2E"/>
+    </linearGradient>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#DDF0E9"/>
+      <stop offset="1" stop-color="#9ACDB6"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="104" fill="url(#ground)"/>
+  <path d="M70 364 191 187l76 94 58-76 117 159v76H70z" fill="url(#sky)"/>
+  <path d="m121 363 70-102 77 103zm126 1 78-105 77 105z" fill="#FFF" opacity=".88"/>
+  <path d="M101 420h310" fill="none" stroke="#F0CE78" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="396" cy="126" r="57" fill="#B53D2E"/>
+  <path d="M396 94v42m0 25v1" fill="none" stroke="#FFF" stroke-width="16" stroke-linecap="round"/>
+</svg>

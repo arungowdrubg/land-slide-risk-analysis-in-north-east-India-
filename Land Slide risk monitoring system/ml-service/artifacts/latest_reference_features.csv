@@ -1,0 +1,361 @@
+year,Terrain_Area_Share_Percent,Recorded_Slope_Failures,rainfall_mm,month_name,district,Season,Slope_Angle_Range_Degrees,Dominant_Failure_Mechanism,Soil type,Vegetation
+2025,14.2,0,208.8,April,Gangtok,Pre Mosoon,0-15,Soil creep / Surface wash,red loamy soil,Lush Himalayan Wet Temperate Forest
+2025,24.8,1,208.8,April,Gangtok,Pre Mosoon,15-25,Rotational slump,red loamy soil,Lush Himalayan Wet Temperate Forest
+2025,31.6,1,208.8,April,Gangtok,Pre Mosoon,25-35,Planar slide / Wedge failure,red loamy soil,Lush Himalayan Wet Temperate Forest
+2025,22.1,2,208.8,April,Gangtok,Pre Mosoon,35-45,Debris flow / Translational slide,red loamy soil,Lush Himalayan Wet Temperate Forest
+2025,7.3,1,208.8,April,Gangtok,Pre Mosoon,>45,Rockfall / Topple,red loamy soil,Lush Himalayan Wet Temperate Forest
+2025,14.2,1,424.8,August,Gangtok,Monsoon,0-15,Soil creep / Surface wash,red loamy soil,Deep-green Himalayan Wet Temperate Forest
+2025,24.8,2,424.8,August,Gangtok,Monsoon,15-25,Rotational slump,red loamy soil,Deep-green Himalayan Wet Temperate Forest
+2025,31.6,6,424.8,August,Gangtok,Monsoon,25-35,Planar slide / Wedge failure,red loamy soil,Deep-green Himalayan Wet Temperate Forest
+2025,22.1,9,424.8,August,Gangtok,Monsoon,35-45,Debris flow / Translational slide,red loamy soil,Deep-green Himalayan Wet Temperate Forest
+2025,7.3,2,424.8,August,Gangtok,Monsoon,>45,Rockfall / Topple,red loamy soil,Deep-green Himalayan Wet Temperate Forest
+2025,14.2,0,10.8,December,Gangtok,Winter,0-15,Soil creep / Surface wash,red loamy soil,Dormant Himalayan Wet Temperate Forest
+2025,24.8,0,10.8,December,Gangtok,Winter,15-25,Rotational slump,red loamy soil,Dormant Himalayan Wet Temperate Forest
+2025,31.6,0,10.8,December,Gangtok,Winter,25-35,Planar slide / Wedge failure,red loamy soil,Dormant Himalayan Wet Temperate Forest
+2025,22.1,0,10.8,December,Gangtok,Winter,35-45,Debris flow / Translational slide,red loamy soil,Dormant Himalayan Wet Temperate Forest
+2025,7.3,0,10.8,December,Gangtok,Winter,>45,Rockfall / Topple,red loamy soil,Dormant Himalayan Wet Temperate Forest
+2025,14.2,0,54.0,February,Gangtok,Winter,0-15,Soil creep / Surface wash,red loamy soil,Cold Himalayan Wet Temperate Forest
+2025,24.8,0,54.0,February,Gangtok,Winter,15-25,Rotational slump,red loamy soil,Cold Himalayan Wet Temperate Forest
+2025,31.6,0,54.0,February,Gangtok,Winter,25-35,Planar slide / Wedge failure,red loamy soil,Cold Himalayan Wet Temperate Forest
+2025,22.1,0,54.0,February,Gangtok,Winter,35-45,Debris flow / Translational slide,red loamy soil,Cold Himalayan Wet Temperate Forest
+2025,7.3,0,54.0,February,Gangtok,Winter,>45,Rockfall / Topple,red loamy soil,Cold Himalayan Wet Temperate Forest
+2025,14.2,0,20.2,January,Gangtok,Winter,0-15,Soil creep / Surface wash,red loamy soil,Cold Himalayan Wet Temperate Forest
+2025,24.8,0,20.2,January,Gangtok,Winter,15-25,Rotational slump,red loamy soil,Cold Himalayan Wet Temperate Forest
+2025,31.6,0,20.2,January,Gangtok,Winter,25-35,Planar slide / Wedge failure,red loamy soil,Cold Himalayan Wet Temperate Forest
+2025,22.1,0,20.2,January,Gangtok,Winter,35-45,Debris flow / Translational slide,red loamy soil,Cold Himalayan Wet Temperate Forest
+2025,7.3,0,20.2,January,Gangtok,Winter,>45,Rockfall / Topple,red loamy soil,Cold Himalayan Wet Temperate Forest
+2025,14.2,1,489.6,July,Gangtok,Monsoon,0-15,Soil creep / Surface wash,red loamy soil,"Saturated, completely closed-canopy Himalayan Wet Temperate Forest"
+2025,24.8,4,489.6,July,Gangtok,Monsoon,15-25,Rotational slump,red loamy soil,"Saturated, completely closed-canopy Himalayan Wet Temperate Forest"
+2025,31.6,9,489.6,July,Gangtok,Monsoon,25-35,Planar slide / Wedge failure,red loamy soil,"Saturated, completely closed-canopy Himalayan Wet Temperate Forest"
+2025,22.1,12,489.6,July,Gangtok,Monsoon,35-45,Debris flow / Translational slide,red loamy soil,"Saturated, completely closed-canopy Himalayan Wet Temperate Forest"
+2025,7.3,4,489.6,July,Gangtok,Monsoon,>45,Rockfall / Topple,red loamy soil,"Saturated, completely closed-canopy Himalayan Wet Temperate Forest"
+2025,14.2,1,439.2,June,Gangtok,Pre Mosoon,0-15,Soil creep / Surface wash,red loamy soil,Water-logged Himalayan Wet Temperate Forest
+2025,24.8,3,439.2,June,Gangtok,Pre Mosoon,15-25,Rotational slump,red loamy soil,Water-logged Himalayan Wet Temperate Forest
+2025,31.6,7,439.2,June,Gangtok,Pre Mosoon,25-35,Planar slide / Wedge failure,red loamy soil,Water-logged Himalayan Wet Temperate Forest
+2025,22.1,12,439.2,June,Gangtok,Pre Mosoon,35-45,Debris flow / Translational slide,red loamy soil,Water-logged Himalayan Wet Temperate Forest
+2025,7.3,3,439.2,June,Gangtok,Pre Mosoon,>45,Rockfall / Topple,red loamy soil,Water-logged Himalayan Wet Temperate Forest
+2025,14.2,0,100.8,March,Gangtok,Pre Mosoon,0-15,Soil creep / Surface wash,red loamy soil,Awakening Himalayan Wet Temperate Forest
+2025,24.8,0,100.8,March,Gangtok,Pre Mosoon,15-25,Rotational slump,red loamy soil,Awakening Himalayan Wet Temperate Forest
+2025,31.6,1,100.8,March,Gangtok,Pre Mosoon,25-35,Planar slide / Wedge failure,red loamy soil,Awakening Himalayan Wet Temperate Forest
+2025,22.1,1,100.8,March,Gangtok,Pre Mosoon,35-45,Debris flow / Translational slide,red loamy soil,Awakening Himalayan Wet Temperate Forest
+2025,7.3,0,100.8,March,Gangtok,Pre Mosoon,>45,Rockfall / Topple,red loamy soil,Awakening Himalayan Wet Temperate Forest
+2025,14.2,0,352.8,May,Gangtok,Pre Mosoon,0-15,Soil creep / Surface wash,red loamy soil,Deep green Himalayan Wet Temperate Forest
+2025,24.8,1,352.8,May,Gangtok,Pre Mosoon,15-25,Rotational slump,red loamy soil,Deep green Himalayan Wet Temperate Forest
+2025,31.6,3,352.8,May,Gangtok,Pre Mosoon,25-35,Planar slide / Wedge failure,red loamy soil,Deep green Himalayan Wet Temperate Forest
+2025,22.1,5,352.8,May,Gangtok,Pre Mosoon,35-45,Debris flow / Translational slide,red loamy soil,Deep green Himalayan Wet Temperate Forest
+2025,7.3,1,352.8,May,Gangtok,Pre Mosoon,>45,Rockfall / Topple,red loamy soil,Deep green Himalayan Wet Temperate Forest
+2025,14.2,0,25.8,November,Gangtok,Post Monsoon,0-15,Soil creep / Surface wash,red loamy soil,Thinning Himalayan Wet Temperate Forest
+2025,24.8,0,25.8,November,Gangtok,Post Monsoon,15-25,Rotational slump,red loamy soil,Thinning Himalayan Wet Temperate Forest
+2025,31.6,0,25.8,November,Gangtok,Post Monsoon,25-35,Planar slide / Wedge failure,red loamy soil,Thinning Himalayan Wet Temperate Forest
+2025,22.1,0,25.8,November,Gangtok,Post Monsoon,35-45,Debris flow / Translational slide,red loamy soil,Thinning Himalayan Wet Temperate Forest
+2025,7.3,0,25.8,November,Gangtok,Post Monsoon,>45,Rockfall / Topple,red loamy soil,Thinning Himalayan Wet Temperate Forest
+2025,14.2,0,122.4,October,Gangtok,Post Monsoon,0-15,Soil creep / Surface wash,red loamy soil,Clear-weather Himalayan Wet Temperate Forest
+2025,24.8,0,122.4,October,Gangtok,Post Monsoon,15-25,Rotational slump,red loamy soil,Clear-weather Himalayan Wet Temperate Forest
+2025,31.6,1,122.4,October,Gangtok,Post Monsoon,25-35,Planar slide / Wedge failure,red loamy soil,Clear-weather Himalayan Wet Temperate Forest
+2025,22.1,1,122.4,October,Gangtok,Post Monsoon,35-45,Debris flow / Translational slide,red loamy soil,Clear-weather Himalayan Wet Temperate Forest
+2025,7.3,0,122.4,October,Gangtok,Post Monsoon,>45,Rockfall / Topple,red loamy soil,Clear-weather Himalayan Wet Temperate Forest
+2025,14.2,0,331.2,September,Gangtok,Monsoon,0-15,Soil creep / Surface wash,red loamy soil,Rain-washed Himalayan Wet Temperate Forest
+2025,24.8,2,331.2,September,Gangtok,Monsoon,15-25,Rotational slump,red loamy soil,Rain-washed Himalayan Wet Temperate Forest
+2025,31.6,3,331.2,September,Gangtok,Monsoon,25-35,Planar slide / Wedge failure,red loamy soil,Rain-washed Himalayan Wet Temperate Forest
+2025,22.1,5,331.2,September,Gangtok,Monsoon,35-45,Debris flow / Translational slide,red loamy soil,Rain-washed Himalayan Wet Temperate Forest
+2025,7.3,2,331.2,September,Gangtok,Monsoon,>45,Rockfall / Topple,red loamy soil,Rain-washed Himalayan Wet Temperate Forest
+2025,13.5,0,151.2,April,Gyalshing,Pre Mosoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Peak-blooming Himalayan Wet Temperate Forest
+2025,23.0,1,151.2,April,Gyalshing,Pre Mosoon,15-25,Rotational slump,brown forest & laterite soil,Peak-blooming Himalayan Wet Temperate Forest
+2025,33.1,1,151.2,April,Gyalshing,Pre Mosoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Peak-blooming Himalayan Wet Temperate Forest
+2025,22.6,2,151.2,April,Gyalshing,Pre Mosoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Peak-blooming Himalayan Wet Temperate Forest
+2025,7.8,1,151.2,April,Gyalshing,Pre Mosoon,>45,Rockfall / Topple,brown forest & laterite soil,Peak-blooming Himalayan Wet Temperate Forest
+2025,13.5,1,316.8,August,Gyalshing,Monsoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Fully saturated Himalayan Wet Temperate Forest
+2025,23.0,2,316.8,August,Gyalshing,Monsoon,15-25,Rotational slump,brown forest & laterite soil,Fully saturated Himalayan Wet Temperate Forest
+2025,33.1,5,316.8,August,Gyalshing,Monsoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Fully saturated Himalayan Wet Temperate Forest
+2025,22.6,9,316.8,August,Gyalshing,Monsoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Fully saturated Himalayan Wet Temperate Forest
+2025,7.8,2,316.8,August,Gyalshing,Monsoon,>45,Rockfall / Topple,brown forest & laterite soil,Fully saturated Himalayan Wet Temperate Forest
+2025,13.5,0,8.6,December,Gyalshing,Winter,0-15,Soil creep / Surface wash,brown forest & laterite soil,Winter-bound Himalayan Wet Temperate Forest
+2025,23.0,0,8.6,December,Gyalshing,Winter,15-25,Rotational slump,brown forest & laterite soil,Winter-bound Himalayan Wet Temperate Forest
+2025,33.1,0,8.6,December,Gyalshing,Winter,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Winter-bound Himalayan Wet Temperate Forest
+2025,22.6,0,8.6,December,Gyalshing,Winter,35-45,Debris flow / Translational slide,brown forest & laterite soil,Winter-bound Himalayan Wet Temperate Forest
+2025,7.8,0,8.6,December,Gyalshing,Winter,>45,Rockfall / Topple,brown forest & laterite soil,Winter-bound Himalayan Wet Temperate Forest
+2025,13.5,0,41.8,February,Gyalshing,Winter,0-15,Soil creep / Surface wash,brown forest & laterite soil,Winter-bound Himalayan Wet Temperate Forest
+2025,23.0,0,41.8,February,Gyalshing,Winter,15-25,Rotational slump,brown forest & laterite soil,Winter-bound Himalayan Wet Temperate Forest
+2025,33.1,0,41.8,February,Gyalshing,Winter,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Winter-bound Himalayan Wet Temperate Forest
+2025,22.6,0,41.8,February,Gyalshing,Winter,35-45,Debris flow / Translational slide,brown forest & laterite soil,Winter-bound Himalayan Wet Temperate Forest
+2025,7.8,0,41.8,February,Gyalshing,Winter,>45,Rockfall / Topple,brown forest & laterite soil,Winter-bound Himalayan Wet Temperate Forest
+2025,13.5,0,15.8,January,Gyalshing,Winter,0-15,Soil creep / Surface wash,brown forest & laterite soil,Winter-bound Himalayan Wet Temperate Forest
+2025,23.0,0,15.8,January,Gyalshing,Winter,15-25,Rotational slump,brown forest & laterite soil,Winter-bound Himalayan Wet Temperate Forest
+2025,33.1,0,15.8,January,Gyalshing,Winter,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Winter-bound Himalayan Wet Temperate Forest
+2025,22.6,0,15.8,January,Gyalshing,Winter,35-45,Debris flow / Translational slide,brown forest & laterite soil,Winter-bound Himalayan Wet Temperate Forest
+2025,7.8,0,15.8,January,Gyalshing,Winter,>45,Rockfall / Topple,brown forest & laterite soil,Winter-bound Himalayan Wet Temperate Forest
+2025,13.5,1,367.2,July,Gyalshing,Monsoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Completely drenched Himalayan Wet Temperate Forest
+2025,23.0,3,367.2,July,Gyalshing,Monsoon,15-25,Rotational slump,brown forest & laterite soil,Completely drenched Himalayan Wet Temperate Forest
+2025,33.1,7,367.2,July,Gyalshing,Monsoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Completely drenched Himalayan Wet Temperate Forest
+2025,22.6,11,367.2,July,Gyalshing,Monsoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Completely drenched Himalayan Wet Temperate Forest
+2025,7.8,3,367.2,July,Gyalshing,Monsoon,>45,Rockfall / Topple,brown forest & laterite soil,Completely drenched Himalayan Wet Temperate Forest
+2025,13.5,1,324.0,June,Gyalshing,Monsoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Saturated Himalayan Wet Temperate and Conifer Forest
+2025,23.0,3,324.0,June,Gyalshing,Monsoon,15-25,Rotational slump,brown forest & laterite soil,Saturated Himalayan Wet Temperate and Conifer Forest
+2025,33.1,7,324.0,June,Gyalshing,Monsoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Saturated Himalayan Wet Temperate and Conifer Forest
+2025,22.6,11,324.0,June,Gyalshing,Monsoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Saturated Himalayan Wet Temperate and Conifer Forest
+2025,7.8,3,324.0,June,Gyalshing,Monsoon,>45,Rockfall / Topple,brown forest & laterite soil,Saturated Himalayan Wet Temperate and Conifer Forest
+2025,13.5,0,79.2,March,Gyalshing,Pre Mosoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Resurgent Himalayan Wet Temperate Forest
+2025,23.0,0,79.2,March,Gyalshing,Pre Mosoon,15-25,Rotational slump,brown forest & laterite soil,Resurgent Himalayan Wet Temperate Forest
+2025,33.1,1,79.2,March,Gyalshing,Pre Mosoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Resurgent Himalayan Wet Temperate Forest
+2025,22.6,1,79.2,March,Gyalshing,Pre Mosoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Resurgent Himalayan Wet Temperate Forest
+2025,7.8,0,79.2,March,Gyalshing,Pre Mosoon,>45,Rockfall / Topple,brown forest & laterite soil,Resurgent Himalayan Wet Temperate Forest
+2025,13.5,0,259.2,May,Gyalshing,Pre Mosoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Saturated Himalayan Wet Temperate Forest
+2025,23.0,1,259.2,May,Gyalshing,Pre Mosoon,15-25,Rotational slump,brown forest & laterite soil,Saturated Himalayan Wet Temperate Forest
+2025,33.1,3,259.2,May,Gyalshing,Pre Mosoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Saturated Himalayan Wet Temperate Forest
+2025,22.6,4,259.2,May,Gyalshing,Pre Mosoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Saturated Himalayan Wet Temperate Forest
+2025,7.8,1,259.2,May,Gyalshing,Pre Mosoon,>45,Rockfall / Topple,brown forest & laterite soil,Saturated Himalayan Wet Temperate Forest
+2025,13.5,0,18.0,November,Gyalshing,Post Monsoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Crisp Himalayan Wet Temperate Forest
+2025,23.0,0,18.0,November,Gyalshing,Post Monsoon,15-25,Rotational slump,brown forest & laterite soil,Crisp Himalayan Wet Temperate Forest
+2025,33.1,0,18.0,November,Gyalshing,Post Monsoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Crisp Himalayan Wet Temperate Forest
+2025,22.6,0,18.0,November,Gyalshing,Post Monsoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Crisp Himalayan Wet Temperate Forest
+2025,7.8,0,18.0,November,Gyalshing,Post Monsoon,>45,Rockfall / Topple,brown forest & laterite soil,Crisp Himalayan Wet Temperate Forest
+2025,13.5,0,86.4,October,Gyalshing,Post Monsoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Crisp Himalayan Wet Temperate Forest
+2025,23.0,0,86.4,October,Gyalshing,Post Monsoon,15-25,Rotational slump,brown forest & laterite soil,Crisp Himalayan Wet Temperate Forest
+2025,33.1,1,86.4,October,Gyalshing,Post Monsoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Crisp Himalayan Wet Temperate Forest
+2025,22.6,1,86.4,October,Gyalshing,Post Monsoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Crisp Himalayan Wet Temperate Forest
+2025,7.8,0,86.4,October,Gyalshing,Post Monsoon,>45,Rockfall / Topple,brown forest & laterite soil,Crisp Himalayan Wet Temperate Forest
+2025,13.5,0,252.0,September,Gyalshing,Monsoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Saturated Himalayan Wet Temperate Forest
+2025,23.0,1,252.0,September,Gyalshing,Monsoon,15-25,Rotational slump,brown forest & laterite soil,Saturated Himalayan Wet Temperate Forest
+2025,33.1,3,252.0,September,Gyalshing,Monsoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Saturated Himalayan Wet Temperate Forest
+2025,22.6,5,252.0,September,Gyalshing,Monsoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Saturated Himalayan Wet Temperate Forest
+2025,7.8,1,252.0,September,Gyalshing,Monsoon,>45,Rockfall / Topple,brown forest & laterite soil,Saturated Himalayan Wet Temperate Forest
+2025,12.4,0,194.4,April,Mangan,Pre Mosoon,0-15,Soil creep / Surface wash,mountain & forest soil,High-altitude Alpine Scrub and Pastures
+2025,18.1,1,194.4,April,Mangan,Pre Mosoon,15-25,Rotational slump,mountain & forest soil,High-altitude Alpine Scrub and Pastures
+2025,27.5,2,194.4,April,Mangan,Pre Mosoon,25-35,Planar slide / Wedge failure,mountain & forest soil,High-altitude Alpine Scrub and Pastures
+2025,29.3,3,194.4,April,Mangan,Pre Mosoon,35-45,Debris flow / Translational slide,mountain & forest soil,High-altitude Alpine Scrub and Pastures
+2025,12.7,1,194.4,April,Mangan,Pre Mosoon,>45,Rockfall / Topple,mountain & forest soil,High-altitude Alpine Scrub and Pastures
+2025,12.4,1,403.2,August,Mangan,Monsoon,0-15,Soil creep / Surface wash,mountain & forest soil,"Lush, rain-soaked Alpine Scrub and Pastures"
+2025,18.1,4,403.2,August,Mangan,Monsoon,15-25,Rotational slump,mountain & forest soil,"Lush, rain-soaked Alpine Scrub and Pastures"
+2025,27.5,8,403.2,August,Mangan,Monsoon,25-35,Planar slide / Wedge failure,mountain & forest soil,"Lush, rain-soaked Alpine Scrub and Pastures"
+2025,29.3,12,403.2,August,Mangan,Monsoon,35-45,Debris flow / Translational slide,mountain & forest soil,"Lush, rain-soaked Alpine Scrub and Pastures"
+2025,12.7,3,403.2,August,Mangan,Monsoon,>45,Rockfall / Topple,mountain & forest soil,"Lush, rain-soaked Alpine Scrub and Pastures"
+2025,12.4,0,13.0,December,Mangan,Winter,0-15,Soil creep / Surface wash,mountain & forest soil,Freezing Alpine Scrub and Pastures
+2025,18.1,0,13.0,December,Mangan,Winter,15-25,Rotational slump,mountain & forest soil,Freezing Alpine Scrub and Pastures
+2025,27.5,0,13.0,December,Mangan,Winter,25-35,Planar slide / Wedge failure,mountain & forest soil,Freezing Alpine Scrub and Pastures
+2025,29.3,0,13.0,December,Mangan,Winter,35-45,Debris flow / Translational slide,mountain & forest soil,Freezing Alpine Scrub and Pastures
+2025,12.7,0,13.0,December,Mangan,Winter,>45,Rockfall / Topple,mountain & forest soil,Freezing Alpine Scrub and Pastures
+2025,12.4,0,59.0,February,Mangan,Winter,0-15,Soil creep / Surface wash,mountain & forest soil,Frozen Alpine Scrub and Pastures
+2025,18.1,0,59.0,February,Mangan,Winter,15-25,Rotational slump,mountain & forest soil,Frozen Alpine Scrub and Pastures
+2025,27.5,0,59.0,February,Mangan,Winter,25-35,Planar slide / Wedge failure,mountain & forest soil,Frozen Alpine Scrub and Pastures
+2025,29.3,1,59.0,February,Mangan,Winter,35-45,Debris flow / Translational slide,mountain & forest soil,Frozen Alpine Scrub and Pastures
+2025,12.7,0,59.0,February,Mangan,Winter,>45,Rockfall / Topple,mountain & forest soil,Frozen Alpine Scrub and Pastures
+2025,12.4,0,24.5,January,Mangan,Winter,0-15,Soil creep / Surface wash,mountain & forest soil,Frozen Alpine Scrub and Pastures
+2025,18.1,0,24.5,January,Mangan,Winter,15-25,Rotational slump,mountain & forest soil,Frozen Alpine Scrub and Pastures
+2025,27.5,0,24.5,January,Mangan,Winter,25-35,Planar slide / Wedge failure,mountain & forest soil,Frozen Alpine Scrub and Pastures
+2025,29.3,1,24.5,January,Mangan,Winter,35-45,Debris flow / Translational slide,mountain & forest soil,Frozen Alpine Scrub and Pastures
+2025,12.7,0,24.5,January,Mangan,Winter,>45,Rockfall / Topple,mountain & forest soil,Frozen Alpine Scrub and Pastures
+2025,12.4,2,460.8,July,Mangan,Monsoon,0-15,Soil creep / Surface wash,mountain & forest soil,High-elevation Alpine Scrub and Pastures
+2025,18.1,5,460.8,July,Mangan,Monsoon,15-25,Rotational slump,mountain & forest soil,High-elevation Alpine Scrub and Pastures
+2025,27.5,13,460.8,July,Mangan,Monsoon,25-35,Planar slide / Wedge failure,mountain & forest soil,High-elevation Alpine Scrub and Pastures
+2025,29.3,21,460.8,July,Mangan,Monsoon,35-45,Debris flow / Translational slide,mountain & forest soil,High-elevation Alpine Scrub and Pastures
+2025,12.7,5,460.8,July,Mangan,Monsoon,>45,Rockfall / Topple,mountain & forest soil,High-elevation Alpine Scrub and Pastures
+2025,12.4,2,388.8,June,Mangan,Monsoon,0-15,Soil creep / Surface wash,mountain & forest soil,Rain-fed Alpine Scrub and Pastures
+2025,18.1,4,388.8,June,Mangan,Monsoon,15-25,Rotational slump,mountain & forest soil,Rain-fed Alpine Scrub and Pastures
+2025,27.5,11,388.8,June,Mangan,Monsoon,25-35,Planar slide / Wedge failure,mountain & forest soil,Rain-fed Alpine Scrub and Pastures
+2025,29.3,17,388.8,June,Mangan,Monsoon,35-45,Debris flow / Translational slide,mountain & forest soil,Rain-fed Alpine Scrub and Pastures
+2025,12.7,5,388.8,June,Mangan,Monsoon,>45,Rockfall / Topple,mountain & forest soil,Rain-fed Alpine Scrub and Pastures
+2025,12.4,0,115.2,March,Mangan,Pre Mosoon,0-15,Soil creep / Surface wash,mountain & forest soil,Thawing Alpine Scrub and Pastures
+2025,18.1,1,115.2,March,Mangan,Pre Mosoon,15-25,Rotational slump,mountain & forest soil,Thawing Alpine Scrub and Pastures
+2025,27.5,1,115.2,March,Mangan,Pre Mosoon,25-35,Planar slide / Wedge failure,mountain & forest soil,Thawing Alpine Scrub and Pastures
+2025,29.3,2,115.2,March,Mangan,Pre Mosoon,35-45,Debris flow / Translational slide,mountain & forest soil,Thawing Alpine Scrub and Pastures
+2025,12.7,1,115.2,March,Mangan,Pre Mosoon,>45,Rockfall / Topple,mountain & forest soil,Thawing Alpine Scrub and Pastures
+2025,12.4,1,302.4,May,Mangan,Pre Mosoon,0-15,Soil creep / Surface wash,mountain & forest soil,Snow-free Alpine Scrub and Pastures
+2025,18.1,2,302.4,May,Mangan,Pre Mosoon,15-25,Rotational slump,mountain & forest soil,Snow-free Alpine Scrub and Pastures
+2025,27.5,4,302.4,May,Mangan,Pre Mosoon,25-35,Planar slide / Wedge failure,mountain & forest soil,Snow-free Alpine Scrub and Pastures
+2025,29.3,7,302.4,May,Mangan,Pre Mosoon,35-45,Debris flow / Translational slide,mountain & forest soil,Snow-free Alpine Scrub and Pastures
+2025,12.7,2,302.4,May,Mangan,Pre Mosoon,>45,Rockfall / Topple,mountain & forest soil,Snow-free Alpine Scrub and Pastures
+2025,12.4,0,21.6,November,Mangan,Post Monsoon,0-15,Soil creep / Surface wash,mountain & forest soil,Freezing Alpine Scrub and Pastures
+2025,18.1,0,21.6,November,Mangan,Post Monsoon,15-25,Rotational slump,mountain & forest soil,Freezing Alpine Scrub and Pastures
+2025,27.5,0,21.6,November,Mangan,Post Monsoon,25-35,Planar slide / Wedge failure,mountain & forest soil,Freezing Alpine Scrub and Pastures
+2025,29.3,0,21.6,November,Mangan,Post Monsoon,35-45,Debris flow / Translational slide,mountain & forest soil,Freezing Alpine Scrub and Pastures
+2025,12.7,0,21.6,November,Mangan,Post Monsoon,>45,Rockfall / Topple,mountain & forest soil,Freezing Alpine Scrub and Pastures
+2025,12.4,0,108.0,October,Mangan,Post Monsoon,0-15,Soil creep / Surface wash,mountain & forest soil,High-altitude Alpine Scrub and Pastures
+2025,18.1,0,108.0,October,Mangan,Post Monsoon,15-25,Rotational slump,mountain & forest soil,High-altitude Alpine Scrub and Pastures
+2025,27.5,1,108.0,October,Mangan,Post Monsoon,25-35,Planar slide / Wedge failure,mountain & forest soil,High-altitude Alpine Scrub and Pastures
+2025,29.3,1,108.0,October,Mangan,Post Monsoon,35-45,Debris flow / Translational slide,mountain & forest soil,High-altitude Alpine Scrub and Pastures
+2025,12.7,0,108.0,October,Mangan,Post Monsoon,>45,Rockfall / Topple,mountain & forest soil,High-altitude Alpine Scrub and Pastures
+2025,12.4,1,309.6,September,Mangan,Monsoon,0-15,Soil creep / Surface wash,mountain & forest soil,High-altitude Alpine Scrub and Pastures
+2025,18.1,2,309.6,September,Mangan,Monsoon,15-25,Rotational slump,mountain & forest soil,High-altitude Alpine Scrub and Pastures
+2025,27.5,5,309.6,September,Mangan,Monsoon,25-35,Planar slide / Wedge failure,mountain & forest soil,High-altitude Alpine Scrub and Pastures
+2025,29.3,8,309.6,September,Mangan,Monsoon,35-45,Debris flow / Translational slide,mountain & forest soil,High-altitude Alpine Scrub and Pastures
+2025,12.7,2,309.6,September,Mangan,Monsoon,>45,Rockfall / Topple,mountain & forest soil,High-altitude Alpine Scrub and Pastures
+2025,18.0,0,108.0,April,Namchi,Pre Mosoon,0-15,Soil creep / Surface wash,dry clay & red soil,Fully regenerated Tropical Semi-Evergreen Forest
+2025,28.5,0,108.0,April,Namchi,Pre Mosoon,15-25,Rotational slump,dry clay & red soil,Fully regenerated Tropical Semi-Evergreen Forest
+2025,30.2,1,108.0,April,Namchi,Pre Mosoon,25-35,Planar slide / Wedge failure,dry clay & red soil,Fully regenerated Tropical Semi-Evergreen Forest
+2025,17.1,2,108.0,April,Namchi,Pre Mosoon,35-45,Debris flow / Translational slide,dry clay & red soil,Fully regenerated Tropical Semi-Evergreen Forest
+2025,6.2,0,108.0,April,Namchi,Pre Mosoon,>45,Rockfall / Topple,dry clay & red soil,Fully regenerated Tropical Semi-Evergreen Forest
+2025,18.0,1,273.6,August,Namchi,Monsoon,0-15,Soil creep / Surface wash,dry clay & red soil,Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,28.5,2,273.6,August,Namchi,Monsoon,15-25,Rotational slump,dry clay & red soil,Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,30.2,4,273.6,August,Namchi,Monsoon,25-35,Planar slide / Wedge failure,dry clay & red soil,Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,17.1,6,273.6,August,Namchi,Monsoon,35-45,Debris flow / Translational slide,dry clay & red soil,Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,6.2,2,273.6,August,Namchi,Monsoon,>45,Rockfall / Topple,dry clay & red soil,Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,18.0,0,7.2,December,Namchi,Winter,0-15,Soil creep / Surface wash,dry clay & red soil,Dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,28.5,0,7.2,December,Namchi,Winter,15-25,Rotational slump,dry clay & red soil,Dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,30.2,0,7.2,December,Namchi,Winter,25-35,Planar slide / Wedge failure,dry clay & red soil,Dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,17.1,0,7.2,December,Namchi,Winter,35-45,Debris flow / Translational slide,dry clay & red soil,Dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,6.2,0,7.2,December,Namchi,Winter,>45,Rockfall / Topple,dry clay & red soil,Dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,18.0,0,32.4,February,Namchi,Winter,0-15,Soil creep / Surface wash,dry clay & red soil,Semi-dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,28.5,0,32.4,February,Namchi,Winter,15-25,Rotational slump,dry clay & red soil,Semi-dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,30.2,0,32.4,February,Namchi,Winter,25-35,Planar slide / Wedge failure,dry clay & red soil,Semi-dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,17.1,0,32.4,February,Namchi,Winter,35-45,Debris flow / Translational slide,dry clay & red soil,Semi-dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,6.2,0,32.4,February,Namchi,Winter,>45,Rockfall / Topple,dry clay & red soil,Semi-dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,18.0,0,13.0,January,Namchi,Winter,0-15,Soil creep / Surface wash,dry clay & red soil,Dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,28.5,0,13.0,January,Namchi,Winter,15-25,Rotational slump,dry clay & red soil,Dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,30.2,0,13.0,January,Namchi,Winter,25-35,Planar slide / Wedge failure,dry clay & red soil,Dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,17.1,0,13.0,January,Namchi,Winter,35-45,Debris flow / Translational slide,dry clay & red soil,Dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,6.2,0,13.0,January,Namchi,Winter,>45,Rockfall / Topple,dry clay & red soil,Dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,18.0,1,316.8,July,Namchi,Monsoon,0-15,Soil creep / Surface wash,dry clay & red soil,Steaming Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,28.5,3,316.8,July,Namchi,Monsoon,15-25,Rotational slump,dry clay & red soil,Steaming Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,30.2,5,316.8,July,Namchi,Monsoon,25-35,Planar slide / Wedge failure,dry clay & red soil,Steaming Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,17.1,9,316.8,July,Namchi,Monsoon,35-45,Debris flow / Translational slide,dry clay & red soil,Steaming Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,6.2,3,316.8,July,Namchi,Monsoon,>45,Rockfall / Topple,dry clay & red soil,Steaming Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,18.0,1,280.8,June,Namchi,Monsoon,0-15,Soil creep / Surface wash,dry clay & red soil,Highly humid Tropical Semi-Evergreen Forest
+2025,28.5,2,280.8,June,Namchi,Monsoon,15-25,Rotational slump,dry clay & red soil,Highly humid Tropical Semi-Evergreen Forest
+2025,30.2,5,280.8,June,Namchi,Monsoon,25-35,Planar slide / Wedge failure,dry clay & red soil,Highly humid Tropical Semi-Evergreen Forest
+2025,17.1,8,280.8,June,Namchi,Monsoon,35-45,Debris flow / Translational slide,dry clay & red soil,Highly humid Tropical Semi-Evergreen Forest
+2025,6.2,2,280.8,June,Namchi,Monsoon,>45,Rockfall / Topple,dry clay & red soil,Highly humid Tropical Semi-Evergreen Forest
+2025,18.0,0,61.2,March,Namchi,Pre Mosoon,0-15,Soil creep / Surface wash,dry clay & red soil,Regenerating Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,28.5,0,61.2,March,Namchi,Pre Mosoon,15-25,Rotational slump,dry clay & red soil,Regenerating Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,30.2,1,61.2,March,Namchi,Pre Mosoon,25-35,Planar slide / Wedge failure,dry clay & red soil,Regenerating Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,17.1,1,61.2,March,Namchi,Pre Mosoon,35-45,Debris flow / Translational slide,dry clay & red soil,Regenerating Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,6.2,0,61.2,March,Namchi,Pre Mosoon,>45,Rockfall / Topple,dry clay & red soil,Regenerating Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,18.0,0,201.6,May,Namchi,Pre Mosoon,0-15,Soil creep / Surface wash,dry clay & red soil,Hot Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,28.5,1,201.6,May,Namchi,Pre Mosoon,15-25,Rotational slump,dry clay & red soil,Hot Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,30.2,2,201.6,May,Namchi,Pre Mosoon,25-35,Planar slide / Wedge failure,dry clay & red soil,Hot Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,17.1,3,201.6,May,Namchi,Pre Mosoon,35-45,Debris flow / Translational slide,dry clay & red soil,Hot Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,6.2,1,201.6,May,Namchi,Pre Mosoon,>45,Rockfall / Topple,dry clay & red soil,Hot Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,18.0,0,14.4,November,Namchi,Post Monsoon,0-15,Soil creep / Surface wash,dry clay & red soil,Semi-dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,28.5,0,14.4,November,Namchi,Post Monsoon,15-25,Rotational slump,dry clay & red soil,Semi-dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,30.2,0,14.4,November,Namchi,Post Monsoon,25-35,Planar slide / Wedge failure,dry clay & red soil,Semi-dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,17.1,0,14.4,November,Namchi,Post Monsoon,35-45,Debris flow / Translational slide,dry clay & red soil,Semi-dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,6.2,0,14.4,November,Namchi,Post Monsoon,>45,Rockfall / Topple,dry clay & red soil,Semi-dry Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,18.0,0,68.4,October,Namchi,Post Monsoon,0-15,Soil creep / Surface wash,dry clay & red soil,Drying Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,28.5,0,68.4,October,Namchi,Post Monsoon,15-25,Rotational slump,dry clay & red soil,Drying Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,30.2,0,68.4,October,Namchi,Post Monsoon,25-35,Planar slide / Wedge failure,dry clay & red soil,Drying Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,17.1,1,68.4,October,Namchi,Post Monsoon,35-45,Debris flow / Translational slide,dry clay & red soil,Drying Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,6.2,0,68.4,October,Namchi,Post Monsoon,>45,Rockfall / Topple,dry clay & red soil,Drying Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,18.0,0,208.8,September,Namchi,Monsoon,0-15,Soil creep / Surface wash,dry clay & red soil,Warm Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,28.5,1,208.8,September,Namchi,Monsoon,15-25,Rotational slump,dry clay & red soil,Warm Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,30.2,2,208.8,September,Namchi,Monsoon,25-35,Planar slide / Wedge failure,dry clay & red soil,Warm Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,17.1,4,208.8,September,Namchi,Monsoon,35-45,Debris flow / Translational slide,dry clay & red soil,Warm Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,6.2,1,208.8,September,Namchi,Monsoon,>45,Rockfall / Topple,dry clay & red soil,Warm Tropical Semi-Evergreen and Moist Deciduous Forest
+2025,16.5,0,188.0,April,Pakyong,Pre Mosoon,0-15,Soil creep / Surface wash,red loamy soil,Vibrant Sub-tropical Broad-leaved Hill Forest
+2025,26.1,0,188.0,April,Pakyong,Pre Mosoon,15-25,Rotational slump,red loamy soil,Vibrant Sub-tropical Broad-leaved Hill Forest
+2025,32.4,1,188.0,April,Pakyong,Pre Mosoon,25-35,Planar slide / Wedge failure,red loamy soil,Vibrant Sub-tropical Broad-leaved Hill Forest
+2025,19.8,2,188.0,April,Pakyong,Pre Mosoon,35-45,Debris flow / Translational slide,red loamy soil,Vibrant Sub-tropical Broad-leaved Hill Forest
+2025,5.2,0,188.0,April,Pakyong,Pre Mosoon,>45,Rockfall / Topple,red loamy soil,Vibrant Sub-tropical Broad-leaved Hill Forest
+2025,16.5,1,400.0,August,Pakyong,Monsoon,0-15,Soil creep / Surface wash,red loamy soil,Overgrown Sub-tropical Broad-leaved Hill Forest
+2025,26.1,2,400.0,August,Pakyong,Monsoon,15-25,Rotational slump,red loamy soil,Overgrown Sub-tropical Broad-leaved Hill Forest
+2025,32.4,4,400.0,August,Pakyong,Monsoon,25-35,Planar slide / Wedge failure,red loamy soil,Overgrown Sub-tropical Broad-leaved Hill Forest
+2025,19.8,7,400.0,August,Pakyong,Monsoon,35-45,Debris flow / Translational slide,red loamy soil,Overgrown Sub-tropical Broad-leaved Hill Forest
+2025,5.2,2,400.0,August,Pakyong,Monsoon,>45,Rockfall / Topple,red loamy soil,Overgrown Sub-tropical Broad-leaved Hill Forest
+2025,16.5,0,3.0,December,Pakyong,Winter,0-15,Soil creep / Surface wash,red loamy soil,Cold Sub-tropical Broad-leaved Hill Forest
+2025,26.1,0,3.0,December,Pakyong,Winter,15-25,Rotational slump,red loamy soil,Cold Sub-tropical Broad-leaved Hill Forest
+2025,32.4,0,3.0,December,Pakyong,Winter,25-35,Planar slide / Wedge failure,red loamy soil,Cold Sub-tropical Broad-leaved Hill Forest
+2025,19.8,0,3.0,December,Pakyong,Winter,35-45,Debris flow / Translational slide,red loamy soil,Cold Sub-tropical Broad-leaved Hill Forest
+2025,5.2,0,3.0,December,Pakyong,Winter,>45,Rockfall / Topple,red loamy soil,Cold Sub-tropical Broad-leaved Hill Forest
+2025,16.5,0,47.0,February,Pakyong,Winter,0-15,Soil creep / Surface wash,red loamy soil,Crisp Sub-tropical Broad-leaved Hill Forest
+2025,26.1,0,47.0,February,Pakyong,Winter,15-25,Rotational slump,red loamy soil,Crisp Sub-tropical Broad-leaved Hill Forest
+2025,32.4,0,47.0,February,Pakyong,Winter,25-35,Planar slide / Wedge failure,red loamy soil,Crisp Sub-tropical Broad-leaved Hill Forest
+2025,19.8,0,47.0,February,Pakyong,Winter,35-45,Debris flow / Translational slide,red loamy soil,Crisp Sub-tropical Broad-leaved Hill Forest
+2025,5.2,0,47.0,February,Pakyong,Winter,>45,Rockfall / Topple,red loamy soil,Crisp Sub-tropical Broad-leaved Hill Forest
+2025,16.5,0,19.0,January,Pakyong,Winter,0-15,Soil creep / Surface wash,red loamy soil,Chilly Sub-tropical Broad-leaved Hill Forest
+2025,26.1,0,19.0,January,Pakyong,Winter,15-25,Rotational slump,red loamy soil,Chilly Sub-tropical Broad-leaved Hill Forest
+2025,32.4,0,19.0,January,Pakyong,Winter,25-35,Planar slide / Wedge failure,red loamy soil,Chilly Sub-tropical Broad-leaved Hill Forest
+2025,19.8,0,19.0,January,Pakyong,Winter,35-45,Debris flow / Translational slide,red loamy soil,Chilly Sub-tropical Broad-leaved Hill Forest
+2025,5.2,0,19.0,January,Pakyong,Winter,>45,Rockfall / Topple,red loamy soil,Chilly Sub-tropical Broad-leaved Hill Forest
+2025,16.5,1,470.0,July,Pakyong,Monsoon,0-15,Soil creep / Surface wash,red loamy soil,Super-humid Sub-tropical Broad-leaved Hill Forest
+2025,26.1,3,470.0,July,Pakyong,Monsoon,15-25,Rotational slump,red loamy soil,Super-humid Sub-tropical Broad-leaved Hill Forest
+2025,32.4,7,470.0,July,Pakyong,Monsoon,25-35,Planar slide / Wedge failure,red loamy soil,Super-humid Sub-tropical Broad-leaved Hill Forest
+2025,19.8,11,470.0,July,Pakyong,Monsoon,35-45,Debris flow / Translational slide,red loamy soil,Super-humid Sub-tropical Broad-leaved Hill Forest
+2025,5.2,3,470.0,July,Pakyong,Monsoon,>45,Rockfall / Topple,red loamy soil,Super-humid Sub-tropical Broad-leaved Hill Forest
+2025,16.5,1,400.0,June,Pakyong,Monsoon,0-15,Soil creep / Surface wash,red loamy soil,"Dense, highly humid Sub-tropical Broad-leaved Hill Forest"
+2025,26.1,2,400.0,June,Pakyong,Monsoon,15-25,Rotational slump,red loamy soil,"Dense, highly humid Sub-tropical Broad-leaved Hill Forest"
+2025,32.4,6,400.0,June,Pakyong,Monsoon,25-35,Planar slide / Wedge failure,red loamy soil,"Dense, highly humid Sub-tropical Broad-leaved Hill Forest"
+2025,19.8,9,400.0,June,Pakyong,Monsoon,35-45,Debris flow / Translational slide,red loamy soil,"Dense, highly humid Sub-tropical Broad-leaved Hill Forest"
+2025,5.2,2,400.0,June,Pakyong,Monsoon,>45,Rockfall / Topple,red loamy soil,"Dense, highly humid Sub-tropical Broad-leaved Hill Forest"
+2025,16.5,0,94.0,March,Pakyong,Pre Mosoon,0-15,Soil creep / Surface wash,red loamy soil,Vibrant Sub-tropical Broad-leaved Hill Forest
+2025,26.1,0,94.0,March,Pakyong,Pre Mosoon,15-25,Rotational slump,red loamy soil,Vibrant Sub-tropical Broad-leaved Hill Forest
+2025,32.4,1,94.0,March,Pakyong,Pre Mosoon,25-35,Planar slide / Wedge failure,red loamy soil,Vibrant Sub-tropical Broad-leaved Hill Forest
+2025,19.8,1,94.0,March,Pakyong,Pre Mosoon,35-45,Debris flow / Translational slide,red loamy soil,Vibrant Sub-tropical Broad-leaved Hill Forest
+2025,5.2,0,94.0,March,Pakyong,Pre Mosoon,>45,Rockfall / Topple,red loamy soil,Vibrant Sub-tropical Broad-leaved Hill Forest
+2025,16.5,0,329.0,May,Pakyong,Pre Mosoon,0-15,Soil creep / Surface wash,red loamy soil,Steaming Sub-tropical Broad-leaved Hill Fores
+2025,26.1,1,329.0,May,Pakyong,Pre Mosoon,15-25,Rotational slump,red loamy soil,Steaming Sub-tropical Broad-leaved Hill Fores
+2025,32.4,2,329.0,May,Pakyong,Pre Mosoon,25-35,Planar slide / Wedge failure,red loamy soil,Steaming Sub-tropical Broad-leaved Hill Fores
+2025,19.8,3,329.0,May,Pakyong,Pre Mosoon,35-45,Debris flow / Translational slide,red loamy soil,Steaming Sub-tropical Broad-leaved Hill Fores
+2025,5.2,1,329.0,May,Pakyong,Pre Mosoon,>45,Rockfall / Topple,red loamy soil,Steaming Sub-tropical Broad-leaved Hill Fores
+2025,16.5,0,12.0,November,Pakyong,Post Monsoon,0-15,Soil creep / Surface wash,red loamy soil,Cooling Sub-tropical Broad-leaved Hill Forest
+2025,26.1,0,12.0,November,Pakyong,Post Monsoon,15-25,Rotational slump,red loamy soil,Cooling Sub-tropical Broad-leaved Hill Forest
+2025,32.4,0,12.0,November,Pakyong,Post Monsoon,25-35,Planar slide / Wedge failure,red loamy soil,Cooling Sub-tropical Broad-leaved Hill Forest
+2025,19.8,0,12.0,November,Pakyong,Post Monsoon,35-45,Debris flow / Translational slide,red loamy soil,Cooling Sub-tropical Broad-leaved Hill Forest
+2025,5.2,0,12.0,November,Pakyong,Post Monsoon,>45,Rockfall / Topple,red loamy soil,Cooling Sub-tropical Broad-leaved Hill Forest
+2025,16.5,0,82.0,October,Pakyong,Post Monsoon,0-15,Soil creep / Surface wash,red loamy soil,Drying Sub-tropical Broad-leaved Hill Forest
+2025,26.1,0,82.0,October,Pakyong,Post Monsoon,15-25,Rotational slump,red loamy soil,Drying Sub-tropical Broad-leaved Hill Forest
+2025,32.4,0,82.0,October,Pakyong,Post Monsoon,25-35,Planar slide / Wedge failure,red loamy soil,Drying Sub-tropical Broad-leaved Hill Forest
+2025,19.8,1,82.0,October,Pakyong,Post Monsoon,35-45,Debris flow / Translational slide,red loamy soil,Drying Sub-tropical Broad-leaved Hill Forest
+2025,5.2,0,82.0,October,Pakyong,Post Monsoon,>45,Rockfall / Topple,red loamy soil,Drying Sub-tropical Broad-leaved Hill Forest
+2025,16.5,0,306.0,September,Pakyong,Monsoon,0-15,Soil creep / Surface wash,red loamy soil,umid Sub-tropical Broad-leaved Hill Forest
+2025,26.1,1,306.0,September,Pakyong,Monsoon,15-25,Rotational slump,red loamy soil,umid Sub-tropical Broad-leaved Hill Forest
+2025,32.4,2,306.0,September,Pakyong,Monsoon,25-35,Planar slide / Wedge failure,red loamy soil,umid Sub-tropical Broad-leaved Hill Forest
+2025,19.8,5,306.0,September,Pakyong,Monsoon,35-45,Debris flow / Translational slide,red loamy soil,umid Sub-tropical Broad-leaved Hill Forest
+2025,5.2,1,306.0,September,Pakyong,Monsoon,>45,Rockfall / Topple,red loamy soil,umid Sub-tropical Broad-leaved Hill Forest
+2025,19.2,0,135.0,April,Soreng,Pre Mosoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Fresh Sub-tropical Foothill Forest
+2025,29.4,0,135.0,April,Soreng,Pre Mosoon,15-25,Rotational slump,brown forest & laterite soil,Fresh Sub-tropical Foothill Forest
+2025,29.8,1,135.0,April,Soreng,Pre Mosoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Fresh Sub-tropical Foothill Forest
+2025,16.5,1,135.0,April,Soreng,Pre Mosoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Fresh Sub-tropical Foothill Forest
+2025,5.1,0,135.0,April,Soreng,Pre Mosoon,>45,Rockfall / Topple,brown forest & laterite soil,Fresh Sub-tropical Foothill Forest
+2025,19.2,0,287.0,August,Soreng,Monsoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Dense Sub-tropical Foothill Forest
+2025,29.4,1,287.0,August,Soreng,Monsoon,15-25,Rotational slump,brown forest & laterite soil,Dense Sub-tropical Foothill Forest
+2025,29.8,3,287.0,August,Soreng,Monsoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Dense Sub-tropical Foothill Forest
+2025,16.5,5,287.0,August,Soreng,Monsoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Dense Sub-tropical Foothill Forest
+2025,5.1,1,287.0,August,Soreng,Monsoon,>45,Rockfall / Topple,brown forest & laterite soil,Dense Sub-tropical Foothill Forest
+2025,19.2,0,3.0,December,Soreng,Winter,0-15,Soil creep / Surface wash,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,29.4,0,3.0,December,Soreng,Winter,15-25,Rotational slump,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,29.8,0,3.0,December,Soreng,Winter,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,16.5,0,3.0,December,Soreng,Winter,35-45,Debris flow / Translational slide,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,5.1,0,3.0,December,Soreng,Winter,>45,Rockfall / Topple,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,19.2,0,34.0,February,Soreng,Winter,0-15,Soil creep / Surface wash,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,29.4,0,34.0,February,Soreng,Winter,15-25,Rotational slump,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,29.8,0,34.0,February,Soreng,Winter,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,16.5,0,34.0,February,Soreng,Winter,35-45,Debris flow / Translational slide,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,5.1,0,34.0,February,Soreng,Winter,>45,Rockfall / Topple,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,19.2,0,14.0,January,Soreng,Winter,0-15,Soil creep / Surface wash,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,29.4,0,14.0,January,Soreng,Winter,15-25,Rotational slump,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,29.8,0,14.0,January,Soreng,Winter,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,16.5,0,14.0,January,Soreng,Winter,35-45,Debris flow / Translational slide,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,5.1,0,14.0,January,Soreng,Winter,>45,Rockfall / Topple,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,19.2,1,338.0,July,Soreng,Monsoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Thick Sub-tropical Foothill Forest
+2025,29.4,2,338.0,July,Soreng,Monsoon,15-25,Rotational slump,brown forest & laterite soil,Thick Sub-tropical Foothill Forest
+2025,29.8,5,338.0,July,Soreng,Monsoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Thick Sub-tropical Foothill Forest
+2025,16.5,7,338.0,July,Soreng,Monsoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Thick Sub-tropical Foothill Forest
+2025,5.1,2,338.0,July,Soreng,Monsoon,>45,Rockfall / Topple,brown forest & laterite soil,Thick Sub-tropical Foothill Forest
+2025,19.2,1,287.0,June,Soreng,Monsoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Lush Sub-tropical Foothill Forest
+2025,29.4,2,287.0,June,Soreng,Monsoon,15-25,Rotational slump,brown forest & laterite soil,Lush Sub-tropical Foothill Forest
+2025,29.8,4,287.0,June,Soreng,Monsoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Lush Sub-tropical Foothill Forest
+2025,16.5,6,287.0,June,Soreng,Monsoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Lush Sub-tropical Foothill Forest
+2025,5.1,1,287.0,June,Soreng,Monsoon,>45,Rockfall / Topple,brown forest & laterite soil,Lush Sub-tropical Foothill Forest
+2025,19.2,0,68.0,March,Soreng,Pre Mosoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Fresh Sub-tropical Foothill Forest
+2025,29.4,0,68.0,March,Soreng,Pre Mosoon,15-25,Rotational slump,brown forest & laterite soil,Fresh Sub-tropical Foothill Forest
+2025,29.8,0,68.0,March,Soreng,Pre Mosoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Fresh Sub-tropical Foothill Forest
+2025,16.5,1,68.0,March,Soreng,Pre Mosoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Fresh Sub-tropical Foothill Forest
+2025,5.1,0,68.0,March,Soreng,Pre Mosoon,>45,Rockfall / Topple,brown forest & laterite soil,Fresh Sub-tropical Foothill Forest
+2025,19.2,0,237.0,May,Soreng,Pre Mosoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Thick Sub-tropical Foothill Forest
+2025,29.4,1,237.0,May,Soreng,Pre Mosoon,15-25,Rotational slump,brown forest & laterite soil,Thick Sub-tropical Foothill Forest
+2025,29.8,2,237.0,May,Soreng,Pre Mosoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Thick Sub-tropical Foothill Forest
+2025,16.5,3,237.0,May,Soreng,Pre Mosoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Thick Sub-tropical Foothill Forest
+2025,5.1,1,237.0,May,Soreng,Pre Mosoon,>45,Rockfall / Topple,brown forest & laterite soil,Thick Sub-tropical Foothill Forest
+2025,19.2,0,8.0,November,Soreng,Post Monsoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,29.4,0,8.0,November,Soreng,Post Monsoon,15-25,Rotational slump,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,29.8,0,8.0,November,Soreng,Post Monsoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,16.5,0,8.0,November,Soreng,Post Monsoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,5.1,0,8.0,November,Soreng,Post Monsoon,>45,Rockfall / Topple,brown forest & laterite soil,Dry-season Sub-tropical Foothill Forest
+2025,19.2,0,59.0,October,Soreng,Post Monsoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Cooling Sub-tropical Foothill Forest
+2025,29.4,0,59.0,October,Soreng,Post Monsoon,15-25,Rotational slump,brown forest & laterite soil,Cooling Sub-tropical Foothill Forest
+2025,29.8,0,59.0,October,Soreng,Post Monsoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Cooling Sub-tropical Foothill Forest
+2025,16.5,0,59.0,October,Soreng,Post Monsoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Cooling Sub-tropical Foothill Forest
+2025,5.1,0,59.0,October,Soreng,Post Monsoon,>45,Rockfall / Topple,brown forest & laterite soil,Cooling Sub-tropical Foothill Forest
+2025,19.2,0,220.0,September,Soreng,Monsoon,0-15,Soil creep / Surface wash,brown forest & laterite soil,Stable Sub-tropical Foothill Forest
+2025,29.4,1,220.0,September,Soreng,Monsoon,15-25,Rotational slump,brown forest & laterite soil,Stable Sub-tropical Foothill Forest
+2025,29.8,2,220.0,September,Soreng,Monsoon,25-35,Planar slide / Wedge failure,brown forest & laterite soil,Stable Sub-tropical Foothill Forest
+2025,16.5,3,220.0,September,Soreng,Monsoon,35-45,Debris flow / Translational slide,brown forest & laterite soil,Stable Sub-tropical Foothill Forest
+2025,5.1,1,220.0,September,Soreng,Monsoon,>45,Rockfall / Topple,brown forest & laterite soil,Stable Sub-tropical Foothill Forest
